@@ -1,0 +1,4 @@
+*.sin
+*.vcxproj.*
+*.vcxproj
+Debug/
